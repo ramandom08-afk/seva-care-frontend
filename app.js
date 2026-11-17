@@ -1,4 +1,4 @@
-const API_BASE = "/api";
+const API_BASE = "https://seva-care-backend.onrender.com/api";
 let db = {
   patients: [],
   doctors: [],
